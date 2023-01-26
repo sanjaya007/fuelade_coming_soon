@@ -91,9 +91,11 @@ html {
   .head-container {
     padding: 40px 30px;
   }
+
   .info-container .info-box .title .cs-text {
     font-size: 80px;
   }
+
   .info-container .info-box .date p {
     font-size: 32px;
   }
@@ -101,11 +103,14 @@ html {
 
 @media (max-width: 767px) {
   .head-container {
-    padding: 30px 20px;
+    /* padding: 30px 20px; */
+    padding: 0;
   }
+
   .info-container .info-box .title .cs-text {
     font-size: 70px;
   }
+
   .info-container .info-box .date p {
     font-size: 28px;
   }
@@ -115,9 +120,11 @@ html {
   .info-container .info-box .title .cs-text {
     font-size: 60px;
   }
+
   .info-container .info-box .date p {
     font-size: 24px;
   }
+
   .info-container .info-box .title .cs-text {
     line-height: 1.05;
   }
@@ -127,6 +134,7 @@ html {
   .info-container .info-box .title .cs-text {
     font-size: 50px;
   }
+
   .info-container .info-box .date p {
     font-size: 20px;
   }
@@ -136,6 +144,7 @@ html {
   .info-container .info-box .title .cs-text {
     font-size: 46px;
   }
+
   .info-container .info-box .date p {
     font-size: 20px;
   }
@@ -145,6 +154,7 @@ html {
   .info-container .info-box .title .cs-text {
     font-size: 40px;
   }
+
   .info-container .info-box .date p {
     font-size: 18px;
   }
@@ -154,6 +164,7 @@ html {
   .info-container .info-box .title .cs-text {
     font-size: 36px;
   }
+
   .info-container .info-box .date p {
     font-size: 16px;
   }
